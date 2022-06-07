@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**rindra22/rindra22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi 👋 , I'm Rindra Rasolonirina 
+<div align="center">
+    <img width="100%" src="https://i.ibb.co/6ry5WjQ/portfolio.png"/>
+</div>
+<table>
+    <p>
+      <a href="https://rindra-rasolonirina.aptekagest.com" target="_blank">
+        <img src="https://i.ibb.co/d0b2f6Z/Banner.png" alt="Rindra-skills">
+      </a>
+    </p>
+</table>

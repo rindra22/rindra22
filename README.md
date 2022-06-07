@@ -5,7 +5,11 @@
   </p>
 </a>
 <div align="center">
-    <img width="100%" src="https://i.ibb.co/6ry5WjQ/portfolio.png"/>
+    <a href="https://rindra-rasolonirina.aptekagest.com" target="_blank">
+      <p align="center">
+        <img width="100%" src="https://i.ibb.co/6ry5WjQ/portfolio.png" alt="My-portfolio"/>
+      </p>
+    </a>
 </div>
 <table>
     <h1 align="center">A passionate developer from Madagascar</h1>

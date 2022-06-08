@@ -14,8 +14,8 @@
 <table>
     <h1 align="center">A passionate developer from Madagascar</h1>
     <p>
-      <a href="https://i.ibb.co/d0b2f6Z/Banner.png">
-        <img src="https://i.ibb.co/d0b2f6Z/Banner.png" alt="Rindra-skills">
+      <a href="https://i.ibb.co/CVFq1wy/Banner-1.png">
+        <img src="https://i.ibb.co/CVFq1wy/Banner-1.png" alt="Rindra-skills">
       </a>
     </p>
 </table>

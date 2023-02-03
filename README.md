@@ -30,7 +30,7 @@
 
 <div dir="auto">
   <a href="https://github-readme-stats.vercel.app/api?username=rindra22&theme=city_light&hide_border=false&include_all_commits=false&count_private=false">
-    <img src="https://github-readme-stats.vercel.app/api?username=rindra22&theme=city_light&hide_border=false&include_all_commits=false&count_private=false"                width="100%" alt="Trophé" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rindra22&theme=city_light&hide_border=false&include_all_commits=false&count_private=false"                width="100%" height="150px" alt="Trophé" />
   </a>
 </div>
 

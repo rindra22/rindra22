@@ -34,7 +34,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rindra22&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Rindra Rasolonirina)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

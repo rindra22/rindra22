@@ -26,7 +26,7 @@
   </a>
 </div>
 
-<h1 align="center">GitHub Stats 📈</h2>
+<h1 align="center">📈 GitHub Stats</h2>
 
 <div dir="auto" align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=rindra22&theme=city_light&hide_border=false&include_all_commits=false&count_private=false">

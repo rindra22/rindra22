@@ -28,21 +28,21 @@
 
 <h1 align="center">GitHub Stats 📈</h2>
 
-<div dir="auto">
+<div dir="auto" align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=rindra22&theme=city_light&hide_border=false&include_all_commits=false&count_private=false">
-    <img src="https://github-readme-stats.vercel.app/api?username=rindra22&theme=city_light&hide_border=false&include_all_commits=false&count_private=false"                width="100%" alt="Trophé" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rindra22&theme=city_light&hide_border=false&include_all_commits=false&count_private=false"                 alt="Trophé" />
   </a>
 </div>
 
-<div dir="auto">
+<div dir="auto" align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=rindra22&theme=city_light&hide_border=false">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rindra22&theme=city_light&hide_border=false" width="100%" alt="Trophé" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rindra22&theme=city_light&hide_border=false" alt="Trophé" />
   </a>
 </div>
 
-<div dir="auto">
+<div dir="auto" align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=rindra22&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rindra22&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" alt="Trophé" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rindra22&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Trophé" />
   </a>
 </div>
 

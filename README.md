@@ -20,9 +20,9 @@
     </p>
 </table>
 <h2 align="center">🏆 GitHub Trophies</h2>
-<div dir="auto" style="width: 100%">
+<div dir="auto">
   <a href="https://github-profile-trophy.vercel.app/?username=rindra22&theme=onestar&no-frame=false&no-bg=true&margin-w=4">
-    <img src="https://github-profile-trophy.vercel.app/?username=rindra22&theme=onestar&no-frame=false&no-bg=true&margin-w=4" alt="Trophé" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rindra22&theme=onestar&no-frame=false&no-bg=true&margin-w=4" width="100%" alt="Trophé" />
   </a>
 </div>
 

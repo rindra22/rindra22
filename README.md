@@ -19,14 +19,14 @@
       </a>
     </p>
 </table>
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h1 align="center">🏆 GitHub Trophies</h2>
 <div dir="auto">
   <a href="https://github-profile-trophy.vercel.app/?username=rindra22&theme=onestar&no-frame=false&no-bg=true&margin-w=4">
     <img src="https://github-profile-trophy.vercel.app/?username=rindra22&theme=onestar&no-frame=false&no-bg=true&margin-w=4" width="100%" alt="Trophé" />
   </a>
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h1 align="center">GitHub Stats 📈</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=rindra22&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rindra22&theme=city_light&hide_border=false)<br/>
